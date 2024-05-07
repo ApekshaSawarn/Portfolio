@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.c6d31258.css",
+    "main.js": "/Portfolio/static/js/main.633718e4.js",
+    "static/js/787.0a134047.chunk.js": "/Portfolio/static/js/787.0a134047.chunk.js",
+    "static/media/avatar.svg": "/Portfolio/static/media/avatar.41bc7b663fdb250d2cdf1b2c37fcc436.svg",
+    "static/media/shopvista.png": "/Portfolio/static/media/shopvista.9558f1c3ed11ed0d5bfe.png",
+    "static/media/todo.png": "/Portfolio/static/media/todo.549465c309dc37b8c0b0.png",
+    "static/media/smarthome.png": "/Portfolio/static/media/smarthome.7f5cf294bd7319ee747d.png",
+    "static/media/CricStream.png": "/Portfolio/static/media/CricStream.90b820a05ce1b1b718a1.png",
+    "static/media/image_steganography.png": "/Portfolio/static/media/image_steganography.7e326e2ad6cd55fd7451.png",
+    "static/media/codeEditor.png": "/Portfolio/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/home-main.svg": "/Portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Apeksha_Sawarn_Resume.pdf": "/Portfolio/static/media/Apeksha_Sawarn_Resume.0c28b4939efa246cfb14.pdf",
+    "static/media/home-bg.jpg": "/Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/Portfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/Portfolio/index.html",
+    "main.c6d31258.css.map": "/Portfolio/static/css/main.c6d31258.css.map",
+    "main.633718e4.js.map": "/Portfolio/static/js/main.633718e4.js.map",
+    "787.0a134047.chunk.js.map": "/Portfolio/static/js/787.0a134047.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6d31258.css",
+    "static/js/main.633718e4.js"
+  ]
+}
